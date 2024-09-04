@@ -2,7 +2,7 @@
 这里是 ulricTech 的存档  
 Here is the archive for the ulricTech
 
-#### 001 - 主页 | Home Page: [ulric.tech](https://ulric.tech)
+#### 001 - 主页 | Home Page: [ulric.tech](http://ulric.tech)
 
 #### 002 - 博客 | Tech Blog: [blog.ulric.tech](https://blog.ulric.tech)
 
