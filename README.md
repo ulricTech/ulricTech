@@ -6,7 +6,7 @@ Here is the archive for the ulricTech
 
 #### 002 - 博客 | Tech Blog: [blog.ulrictech.com](https://blog.ulrictech.com)
 
-#### 003 - 创作 | Artistic Creation: [Marcus3](https://marcus3.ulrictech.com)
+#### 003 - 创作 | Artistic Creation: [Marcus3](https://link.ulrictech.com/marcus3)
 
-#### 004 - 频道 | Discord: [ulricTech Discord](https://url.ulrictech.com/discord)
+#### 004 - 频道 | Discord: [ulricTech Discord](https://link.ulrictech.com/dc)
 
